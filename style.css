@@ -11,15 +11,7 @@
 
 
 
-.black {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    margin: auto;
-    width: 100%;
-    font-family: 'Amatic SC', cursive;
-    color: black;
-}
+
 
 .form-row {
     display: flex;
