@@ -9,6 +9,13 @@
 
 }
 
+
+
+.black {
+    font-family: 'Amatic SC', cursive;
+    color: black;
+}
+
 .form-row {
     display: flex;
     justify-content: flex-end;
